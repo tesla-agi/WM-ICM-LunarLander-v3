@@ -1,3 +1,6 @@
+#This is a training ground file where i have performed multiple training across CMA-ES and PPO
+#The main training and the final finding is in "train.py"
+
 import  torch
 import torch.nn as nn
 import torch.nn.functional as F
